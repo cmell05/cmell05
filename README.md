@@ -2,7 +2,7 @@
 <h2 align="center">I'm Carmella Setiabudi</h2>
 
 <p align="center">
-💻 3rd year Computer Science Student @ York University <br>
+💻 Computer Science Student @ York University <br>
 💼 Software Engineer Intern @ BMO Capital Markets <br>
 📍 Toronto, Canada
 </p>
@@ -19,7 +19,7 @@
 ---
 
 ## 🧠 About Me
-I'm a Computer Science student at **York University** with hands-on experience across **software engineering, automation, and machine learning**.
+I'm a 3rd year Computer Science student at **York University** with hands-on experience across **software engineering, automation, and machine learning**.
 
 I've previously interned at **TD Securities** and **State Street**, and I'm currently working as a **Full-Stack Software Engineer Intern at BMO Capital Markets**, building production-grade systems used by internal teams.
 
@@ -28,10 +28,10 @@ I enjoy fast-paced environments where I can learn quickly, ship impactful featur
 ---
 
 ## 💼 Experience
-- **Full-Stack Software Engineer Intern** — BMO Capital Markets  
-- **Technical Systems Analyst Intern** — TD Securities  
-- **Software Developer Intern** — State Street  
-- **Machine Learning Research Assistant** — York University  
+- **Full-Stack Software Engineer Intern** @BMO Capital Markets  
+- **Technical Systems Analyst Intern** @TD Securities  
+- **Software Developer Intern** @State Street  
+- **Machine Learning Research Assistant** @York University  
 
 ## 🧩 Skills
 
