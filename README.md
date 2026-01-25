@@ -75,9 +75,4 @@ I enjoy fast-paced environments where I can learn quickly, ship impactful featur
 
 ---
 
-## 🔥 Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=cmell05&theme=radical"/>
-</p>
-
 
