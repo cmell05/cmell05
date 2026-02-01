@@ -64,15 +64,4 @@ I enjoy fast-paced environments where I can learn quickly, ship impactful featur
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cmell05&show_icons=true&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmell05&layout=compact&theme=radical"/>
-</p>
-
----
-
 
