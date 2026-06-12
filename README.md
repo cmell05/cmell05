@@ -15,13 +15,13 @@
     <img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=netlify&logoColor=white"/>
   </a>
 </p>
-── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦── 
+── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦─
 
 ### 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
 
 I'm a Computer Science student at <strong>York University</strong> with hands-on experience in <strong>software engineering, automation, cloud infrastructure, and machine learning</strong>. I enjoy building practical software, learning quickly in fast-paced environments, and turning messy problems into clean, usable solutions.
 
-﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
+﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
 
 ### 𝓔𝔁𝓹𝓮𝓻𝓲𝓮𝓷𝓬𝓮
 
@@ -48,7 +48,7 @@ I'm a Computer Science student at <strong>York University</strong> with hands-on
 </tr>
 </table>
 
-﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
+﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
 ### 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
 
 #### Languages
@@ -65,8 +65,8 @@ I'm a Computer Science student at <strong>York University</strong> with hands-on
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,aws,azure,gcp" />
 </p>
----
 
+﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
 
 ### 𝓛𝓮𝓮𝓽𝓒𝓸𝓭𝓮
 
