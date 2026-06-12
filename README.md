@@ -1,67 +1,80 @@
-<h1 align="center">Hey there! 👋</h1>
-<h2 align="center">I'm Carmella Setiabudi</h2>
+<h1 align="center">𝓗𝓲, 𝓘'𝓶 𝓒𝓪𝓻𝓶𝓮𝓵𝓵𝓪 👋</h1>
 
-<p align="center">
-💻 Computer Science Student @ York University <br>
-💼 Software Engineer Intern @ BMO Capital Markets <br>
-📍 Toronto, Canada
-</p>
+<h3 align="center">
+  CS Student @ York University | Software Engineer Intern @ League 
+</h3>
 
 <p align="center">
   <a href="https://github.com/cmell05">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/carmellasetiabudi">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://carmellasetiabudi.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=netlify&logoColor=white"/>
   </a>
 </p>
+── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦── 
 
----
+### 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
 
-## 🧠 About Me
-I'm a 3rd year Computer Science student at **York University** with hands-on experience across **software engineering, automation, and machine learning**.
+I'm a Computer Science student at <strong>York University</strong> with hands-on experience in <strong>software engineering, automation, cloud infrastructure, and machine learning</strong>. I enjoy building practical software, learning quickly in fast-paced environments, and turning messy problems into clean, usable solutions.
 
-I've previously interned at **TD Securities** and **State Street**, and I'm currently working as a **Full-Stack Software Engineer Intern at BMO Capital Markets**, building production-grade systems used by internal teams.
+﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
 
-I enjoy fast-paced environments where I can learn quickly, ship impactful features, and work on full stack development.
+### 𝓔𝔁𝓹𝓮𝓻𝓲𝓮𝓷𝓬𝓮
 
----
+<table>
+<tr>
+  <td>💼 <strong>Software Engineer Intern</strong> @ <a href="https://league.com">League</a></td>
+  <td align="right">May 2026–Aug 2026</td>
+</tr>
+<tr>
+  <td>💼 <strong>Software Engineer Intern</strong> @ <a href="https://capitalmarkets.bmo.com">BMO Capital Markets</a></td>
+  <td align="right">Jan 2026–Apr 2026</td>
+</tr>
+<tr>
+  <td>💼 <strong>Software Engineer Intern</strong> @ <a href="https://www.tdsecurities.com">TD Securities</a></td>
+  <td align="right">Sep 2025–Dec 2025</td>
+</tr>
+<tr>
+  <td>💼 <strong>Software Engineer Intern</strong> @ <a href="https://www.statestreet.com">State Street</a></td>
+  <td align="right">May 2025–Aug 2025</td>
+</tr>
+<tr>
+  <td>🔬 <strong>Machine Learning Research Assistant</strong> @ <a href="https://www.yorku.ca">York University</a></td>
+  <td align="right">Jan 2025–Apr 2025</td>
+</tr>
+</table>
 
-## 💼 Experience
-- **Full-Stack Software Engineer Intern** @BMO Capital Markets  
-- **Technical Systems Analyst Intern** @TD Securities  
-- **Software Developer Intern** @State Street  
-- **Machine Learning Research Assistant** @York University  
+﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
+### 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
 
-## 🧩 Skills
-
-### Languages
+#### Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-6A5ACD?style=flat&logo=python"/>
-  <img src="https://img.shields.io/badge/Java-6A5ACD?style=flat&logo=java"/>
-  <img src="https://img.shields.io/badge/JavaScript-6A5ACD?style=flat&logo=javascript"/>
-  <img src="https://img.shields.io/badge/SQL-6A5ACD?style=flat"/>
-  <img src="https://img.shields.io/badge/C%23-6A5ACD?style=flat&logo=csharp"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cs,c,cpp,go"/>
 </p>
 
-### Frameworks
+#### Frameworks & Libraries
 <p>
-  <img src="https://img.shields.io/badge/React-2E2E2E?style=flat&logo=react"/>
-  <img src="https://img.shields.io/badge/Node.js-2E2E2E?style=flat&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-2E2E2E?style=flat"/>
-  <img src="https://img.shields.io/badge/ASP.NET-2E2E2E?style=flat&logo=.net"/>
-  <img src="https://img.shields.io/badge/Flask-2E2E2E?style=flat&logo=flask"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,dotnet" />
 </p>
 
-### Cloud & DevOps
+#### Databases & Cloud
 <p>
-  <img src="https://img.shields.io/badge/Azure-0A66C2?style=flat&logo=microsoftazure"/>
-  <img src="https://img.shields.io/badge/AWS-0A66C2?style=flat&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/Docker-0A66C2?style=flat&logo=docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-0A66C2?style=flat&logo=kubernetes"/>
-  <img src="https://img.shields.io/badge/Jenkins-0A66C2?style=flat&logo=jenkins"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,aws,azure,gcp" />
+</p>
+---
+
+
+### 𝓛𝓮𝓮𝓽𝓒𝓸𝓭𝓮
+
+<p align="center">
+
+  <img src="https://leetcard.jacoblin.cool/carmellacode?theme=unicorn&font=Nunito&ext=heatmap" />
+
 </p>
 
 ---
-
 
