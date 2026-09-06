@@ -68,11 +68,3 @@ I'm a Computer Science student at <strong>York University</strong> with hands-on
 
 ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
 
-### 𝓛𝓮𝓮𝓽𝓒𝓸𝓭𝓮 
-
-<p align="center">
-
-  <img src="https://leetcard.jacoblin.cool/carmellacode?theme=unicorn&font=Nunito&ext=heatmap" />
-
-</p>
-
